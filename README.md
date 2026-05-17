@@ -75,7 +75,7 @@ Development of UAV navigation systems operating in GNSS-denied environments usin
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,r,pytorch,opencv,sklearn,linux,docker,bash,git,vscode,latex" />
+<img src="https://skillicons.dev/icons?i=python,cpp,r,pytorch,opencv,sklearn,ubuntu,linux,docker,bash,git,vscode,latex" />
 
 </p>
 
